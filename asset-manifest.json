@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pavan/static/css/main.c9f2ec1b.css",
+    "main.js": "/pavan/static/js/main.cbf411ca.js",
+    "static/js/453.33b40b25.chunk.js": "/pavan/static/js/453.33b40b25.chunk.js",
+    "static/media/photo_1_assign.png": "/pavan/static/media/photo_1_assign.d84e542f56a4b4ab295b.png",
+    "static/media/photo_2_assign.png": "/pavan/static/media/photo_2_assign.136df9ed426a0732bf08.png",
+    "static/media/photo_5_assign.png": "/pavan/static/media/photo_5_assign.cea497a7e9afe87cdecd.png",
+    "static/media/photo_6_assign.png": "/pavan/static/media/photo_6_assign.499742c10fb6fdfa5f2e.png",
+    "static/media/photo_3_assign.png": "/pavan/static/media/photo_3_assign.4c693bb1b8b50525ace8.png",
+    "static/media/photo_4_assign.png": "/pavan/static/media/photo_4_assign.ec4636b180da2ba40b78.png",
+    "static/media/photo_7_assign.png": "/pavan/static/media/photo_7_assign.4fd0b06d4f606a6e091e.png",
+    "index.html": "/pavan/index.html",
+    "main.c9f2ec1b.css.map": "/pavan/static/css/main.c9f2ec1b.css.map",
+    "main.cbf411ca.js.map": "/pavan/static/js/main.cbf411ca.js.map",
+    "453.33b40b25.chunk.js.map": "/pavan/static/js/453.33b40b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9f2ec1b.css",
+    "static/js/main.cbf411ca.js"
+  ]
+}
